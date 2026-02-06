@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-permalink: /tags/
+permalink: /experience/
 layout: single
 author_profile: true
 ---
