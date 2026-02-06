@@ -15,6 +15,6 @@ After graduation, I will begin my PhD in experimental quantum hardware. My resea
 
 In my free time, you can find me:
 
-* Reading (check out my [Bookshelf](/books/)).
-* Weightlifting.
-* (Trying) to ski.
+* 📚Reading (check out my [Bookshelf](/books/)).
+* 🏋️‍♀️Weightlifting.
+* ⛷️(Trying) to ski.
