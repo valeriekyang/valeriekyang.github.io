@@ -57,23 +57,7 @@ plugins:
 author:
   name   : "Valerie Ang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am an electrical engineering & Wharton undergrad at Penn through the M&T programme. Next year I will be pursuing my PhD in EE with a focus on quantum technologies. Beyond engineering, I also have experience in quantitative finance, data science, and machine learning."
-  links:
-    #- label: "Website"
-      #icon: "fas fa-fw fa-link"
-      #url: "https://"
-    #- label: "Twitter"
-     # icon: "fab fa-fw fa-twitter-square"
-     # url: "https://twitter.com/"
-    #- label: "GitHub"
-     # icon: "fab fa-fw fa-github"
-     # url: "https://github.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/valerie-ky-ang/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-open-text"
-      url: "mailto:valeang@seas.upenn.edu"
+  bio    : "M&T @ Penn. Incoming EE PhD in with a focus on quantum technologies. Beyond engineering, Additional experience in quantitative finance, data science, and machine learning."
 
 footer:
   links:
