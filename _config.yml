@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Valerie Ang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am an electrical Engineering & Wharton undergrad at Penn. Next year I will be pursuing my PhD in Electrical Enginering with a focus on quantum technologies. Beyond engineering, I also have experience in quantitative finance, data science, and machine learning."
+  bio    : "I am an electrical engineering & Wharton undergrad at Penn. Next year I will be pursuing my PhD in EE with a focus on quantum technologies. Beyond engineering, I also have experience in quantitative finance, data science, and machine learning."
   links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
