@@ -57,7 +57,12 @@ plugins:
 author:
   name   : "Valerie Ang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "M&T @ Penn. Incoming EE PhD, focus on quantum technologies. Beyond engineering, Additional experience in quantitative finance, data science, and machine learning."
+  bio    : |
+    M&T @ Penn. Incoming EE PhD, focus on quantum technologies. Beyond engineering, experience in quantitative finance, data science, and machine learning.
+    <br><br>
+    <a href="mailto:valeang@seas.upenn.edu" style="text-decoration: none; color: inherit;"><i class="fas fa-fw fa-envelope-square"></i> Email</a><br>
+    <a href="https://www.linkedin.com/in/valerie-ky-ang/" style="text-decoration: none; color: inherit;"><i class="fab fa-fw fa-linkedin"></i> LinkedIn</a>
+  links: []
 
 footer:
   links:
