@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Bookshelf"
 permalink: /books/
 layout: single
 author_profile: true
