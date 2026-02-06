@@ -1,6 +1,7 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
-layout: posts
+title: "Books"
+permalink: /books/
+layout: single
 author_profile: true
 ---
+Here are some books I recommend
