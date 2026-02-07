@@ -91,3 +91,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  courses:
+    output: true
+    permalink: /courses/:name/
