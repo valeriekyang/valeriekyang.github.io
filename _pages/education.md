@@ -49,7 +49,7 @@ author_profile: true
   <tbody>
     <tr>
       <td><strong>Quantum</strong></td>
-      <td>Qubit Lab (ESE 3200), Principles of Quantum Technology* (ESE 5130), <a href="/courses/ese5130/">Principles of Quantum Technology* (ESE 5130)</a></td>
+      <td>Qubit Lab (ESE 3200), Principles of Quantum Technology* (ESE 5130), <a href="/courses/ese5230/">Principles of Quantum Technology* (ESE 5130)</a></td>
     </tr>
     <tr>
       <td><strong>E&M</strong></td>
