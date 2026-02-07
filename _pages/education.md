@@ -4,25 +4,32 @@ layout: single
 permalink: /education/
 author_profile: true
 ---
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
   <img src="https://branding.web-resources.upenn.edu/sites/default/files/styles/card_3x2/public/2022-03/UniversityofPennsylvania_Shield_RGB-2.png?h=3c287ac3&itok=HgG1DNc-" 
        alt="UPenn Logo" 
-       width="100" 
-       style="margin-right: 20px; flex-shrink: 0;">
+       width="80" 
+       style="margin-right: 25px; flex-shrink: 0; margin-top: 5px;">
   
   <div style="flex-grow: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 5px;">University of Pennsylvania</h3>
-    <p style="margin-bottom: 8px;"><strong>The Jerome Fisher Program in Management & Technology</strong></p>
-    <ul style="margin-top: 0; padding-left: 20px; list-style-type: disc;">
-      <li><strong>B.S.E. in Electrical Engineering</strong><br><i>Concentration: Photonics & Quantum Technologies</i></li>
-      <li><strong>B.S. in Economics</strong><br><i>Concentration: Statistics</i></li>
-    </ul>
-    <p style="margin-top: 10px; font-size: 0.9em;"><em>Aug 2022 – May 2026</em></p>
+    <h2 style="margin: 0 0 4px 0; font-size: 1.25em; border-bottom: none;">University of Pennsylvania</h2>
+    <p style="margin: 0 0 10px 0; font-size: 0.95em; color: #333;"><strong>The Jerome Fisher Program in Management & Technology</strong></p>
+    
+    <div style="font-size: 0.9em; line-height: 1.4;">
+      <div style="margin-bottom: 6px;">
+        <strong>B.S.E. in Electrical Engineering</strong><br>
+        <span style="color: #666; font-style: italic; margin-left: 10px;">Concentration: Photonics & Quantum Technologies</span>
+      </div>
+      <div>
+        <strong>B.S. in Economics</strong><br>
+        <span style="color: #666; font-style: italic; margin-left: 10px;">Concentration: Statistics</span>
+      </div>
+    </div>
+    
+    <p style="margin-top: 12px; font-size: 0.85em; color: #777;"><em>Aug 2022 – May 2026</em></p>
   </div>
 </div>
 
 <div style="clear: both;"></div>
-
 ---
 
 ### ⚡ Relevant Engineering Coursework
@@ -82,13 +89,15 @@ author_profile: true
 </table>
 
 <p style="font-size: 0.85em; margin-top: 5px;">* <i>denotes graduate-level coursework.</i></p>
+<br><br>
+<hr style="border-top: 1px solid #eee;">
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; opacity: 0.9;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAztAuFFHpoDLntDPYQ9MZjqjmhtga9YIOFQ&s" 
        alt="GSIS Logo" 
-       width="40" 
-       style="margin-right: 15px; border-radius: 4px;">
-  <p style="font-size: 0.85em; color: gray; margin: 0;">
-    Previously: <strong>German Swiss International School (GSIS)</strong> — where I learnt German (amongst other things).
+       width="32" 
+       style="margin-right: 12px; border-radius: 3px; filter: grayscale(10%);">
+  <p style="font-size: 0.8em; color: #666; margin: 0; line-height: 1.2;">
+    Previously: <strong>German Swiss International School (GSIS)</strong> — the answer to why a Hong Konger at Penn randomly speaks German.
   </p>
 </div>
