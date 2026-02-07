@@ -34,10 +34,3 @@ author_profile: true
 | **Analytics** | Data Science for Finance, Game Theory, Econometrics |
 | **Management** | Strategic Management, Operations Strategy |
 
-Why this works better:
-
-    {: .align-left width="100px"}: This is special Jekyll code. It tells the theme: "Put this image on the left, make it small, and wrap the text around it automatically."
-
-    <br style="clear:both;">: This simple line forces the "Engineering Coursework" section to start below the logo, so the layout doesn't get messy if the window is resized.
-
-    No complex HTML: It is almost pure Markdown, which is what Jekyll handles best.
