@@ -19,3 +19,5 @@ author_profile: true
     <p style="margin-top: 10px; font-style: italic; font-size: 0.9em;">Expected Graduation: May 2026</p>
   </div>
 </div>
+
+Text
