@@ -95,9 +95,9 @@ author_profile: true
 <div style="display: flex; align-items: center; justify-content: center; opacity: 0.9;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAztAuFFHpoDLntDPYQ9MZjqjmhtga9YIOFQ&s" 
        alt="GSIS Logo" 
-       width="32" 
+       width="48" 
        style="margin-right: 12px; border-radius: 3px; filter: grayscale(10%);">
   <p style="font-size: 0.8em; color: #666; margin: 0; line-height: 1.2;">
-    Previously: <strong>German Swiss International School (GSIS)</strong> — the answer to why a Hong Konger at Penn randomly speaks German.
+    Previously: <strong>German Swiss International School (GSIS)</strong> — where I learnt German (amongst other things).
   </p>
 </div>
