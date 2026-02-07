@@ -4,7 +4,7 @@ layout: single
 permalink: /education/
 author_profile: true
 ---
-![UPenn Logo](https://upload.wikimedia.org/wikipedia/commons/eb/e5/Penn_shield_RGB.png){: .align-left width="100px"}
+<img src="https://upload.wikimedia.org/wikipedia/commons/eb/e5/Penn_shield_RGB.png" alt="UPenn Logo" width="100" style="float: left; margin-right: 20px; margin-bottom: 20px;">
 
 ### University of Pennsylvania
 **The Jerome Fisher Program in Management & Technology**
@@ -74,3 +74,9 @@ author_profile: true
 
 <p style="font-size: 0.85em; margin-top: 5px;">* <i>denotes graduate-level coursework.</i></p>
 
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/GSIS_Logo.png" alt="GSIS Logo" width="40" style="margin-right: 15px; opacity: 0.7;">
+  <p style="font-size: 0.8em; color: gray; margin: 0;">
+    Previously: <strong>German Swiss International School (GSIS)</strong> — the reason why a British Chinese person in the states randomly speak German.
+  </p>
+</div>
