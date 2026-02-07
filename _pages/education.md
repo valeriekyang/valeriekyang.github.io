@@ -9,28 +9,68 @@ author_profile: true
 ### University of Pennsylvania
 **The Jerome Fisher Program in Management & Technology**
 * **B.S.E. in Electrical Engineering** *Concentration: Photonics & Quantum Technologies*
-* **B.S. in Economics** *Concentration: Finance & Operations*
-* *Expected Graduation: May 2026*
+* **B.S. in Economics** *Concentration: Statistics*
+* *Aug 2022-May 2026*
 
 <br style="clear:both;">
 
 ---
 
 ### ⚡ Relevant Engineering Coursework
-*Focus: Quantum Hardware, Optics, and Solid State Physics*
+*Focus: Quantum, E&M, Solid State *
 
-| **Category** | **Courses** |
-| :--- | :--- |
-| **Quantum & Physics** | Quantum Mechanics I/II, Solid State Physics, Electromagnetic Field Theory |
-| **Electronics** | Circuits & Systems, VLSI, Device Physics, Nanofabrication |
-| **Mathematics** | Linear Algebra, Probability, Stochastic Processes |
+<table style="width: 100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 75%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Courses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Quantum</strong></td>
+      <td>Qubit Lab (ESE 3200), Principles of Quantum Technology* (ESE 5130), Quantum Engineering* (ESE 5230)</td>
+    </tr>
+    <tr>
+      <td><strong>E&M</strong></td>
+      <td>Electromagnetics & Optics* (ESE 5100), Principles of Optics & Photonics (ESE 3300)</td>
+    </tr>
+    <tr>
+      <td><strong>Solid State Device Physics</strong></td>
+      <td>Physics of Solid State Energy Devices* (ESE 5210), Electronic, Photonic, and Electromechanical Devices (ESE 2180) </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📈 Relevant Wharton Coursework
-*Focus: Quantitative Finance and Strategic Management*
+*Focus: Quantitative Finance, Asset Pricing*
 
-| **Category** | **Courses** |
-| :--- | :--- |
-| **Finance** | Corporate Finance, Investment Management, Financial Derivatives |
-| **Analytics** | Data Science for Finance, Game Theory, Econometrics |
-| **Management** | Strategic Management, Operations Strategy |
+<table style="width: 100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 75%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Courses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Finance</strong></td>
+      <td>Financial Derivatives (FNCE 2170), Fixed Income Securities (FNCE 2250), Global Valuation and Risk Analysis (FNCE 2310)</td>
+    </tr>
+    <tr>
+      <td><strong>Statistics</strong></td>
+      <td>Applied Probability Models (STAT 4760), Stochastic Processes (STAT 4330), Machine Learning (CIS 5200), Big Data Analytics (CIS 5450)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="font-size: 0.85em; margin-top: 5px;">* <i>denotes graduate-level coursework.</i></p>
 
